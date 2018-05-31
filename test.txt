@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is easy to use.
+git is a version control system.
+git is easy to use.
